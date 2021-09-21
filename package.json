@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-build-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodluck2509/nodeJSBuildAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodluck2509/nodeJSBuildAPI/issues"
+  },
+  "homepage": "https://github.com/goodluck2509/nodeJSBuildAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
